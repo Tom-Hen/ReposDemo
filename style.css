@@ -4,11 +4,11 @@ body{
 	color: red;
 }
 .description{
+	background:blue;
 	display:block;
 	margin:auto;
 	background:red;
   color: white;
-	background:red;
 }
 p, a, h1 {
 	text-align: center;
