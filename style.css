@@ -1,7 +1,9 @@
 body{
 	background-image: url('https://i.amz.mshcdn.com/jnoXjWLO_Q7kPoBiAlZ__RWcD0Q=/fit-in/1440x1000/https%3A%2F%2Fmashable.com%2Fwp-content%2Fgallery%2Fmajestic-mountains%2Fles-perrons.jpg');
+	color: red;
 }
 .description{
+	color: white;
 	background:red;
 }
 p, a, h1 {
